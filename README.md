@@ -1,4 +1,4 @@
-# Web Scraping de Dados de Processos Judiciais - Projeto
+# Web Scraping de Dados de Processos Judiciais - 
 
 Este projeto tem como objetivo extrair dados de movimentações de processos judiciais do site do Tribunal de Justiça de São Paulo (TJSP) usando o Selenium WebDriver. O script coleta informações sobre movimentações processuais a partir de um número único de processo (NUP) fornecido e organiza esses dados em um DataFrame do Pandas para análise posterior.
 
@@ -41,7 +41,7 @@ DataFrame: Um DataFrame do Pandas contendo as seguintes colunas:
 - Inicialização: Configura o WebDriver e acessa a página de consulta do TJSP.
 - Entrada de Dados: Preenche os campos obrigatórios do formulário com o número do processo e o código do foro.
 - Submissão e Navegação: Submete o formulário e navega para a seção de movimentações.
-- Extração de Dados: Coleta e processa as movimentações do processo, ignorando a última movimentação registrada.
+- Extração de Dados: Coleta e processa as movimentações do processo.
 - Criação do DataFrame: Organiza os dados em um DataFrame do Pandas.
 
 # Observações
