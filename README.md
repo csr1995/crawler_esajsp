@@ -21,7 +21,7 @@ Para usar o script, defina a variável nup com o número do processo desejado e 
 
 # Exemplo de uso
 
-![image](https://github.com/user-attachments/assets/96f819b9-97b1-4124-abdc-58405c11c670)
+![image](https://github.com/user-attachments/assets/6a8c4b6c-b383-40b5-9caf-47485afe4e8f)
 
 # Função buscar_dados_processo_incremental(nup)
 
